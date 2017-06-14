@@ -8,7 +8,7 @@
   </div>
 </template>
 <script>
-import ruler from './components/ruler'
+import ruler from './ruler.vue'
 
 export default {
   name: 'app',

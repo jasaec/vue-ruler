@@ -1,2 +1,2 @@
-import VueRuler from './components/ruler'
-export default VueRuler
+import vue2ruler from './components/ruler'
+export default vue2ruler

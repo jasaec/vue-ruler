@@ -10,6 +10,7 @@
 </template>
 <script >
 export default {
+  name: 'vue2-ruler',
   props: {
     mode: { // 刻度尺类型
       type: String,
