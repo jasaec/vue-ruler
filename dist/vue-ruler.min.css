@@ -1,0 +1,1 @@
+.ruler_h{height:12px}.ruler_h,.ruler_v{position:relative;counter-reset:a -1}.ruler_v{width:12px}.ruler_h .cm:after{right:9mm;bottom:10px}.ruler_h .cm:after,.ruler_v .cm:after{position:absolute;content:counter(a);counter-increment:a}.ruler_v .cm:after{right:12px;top:-7px}
